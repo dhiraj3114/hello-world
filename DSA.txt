@@ -1,0 +1,31 @@
+Arrays and strings
+Hashmaps and sets
+Linked lists
+Stacks and queues
+Trees and graphs
+Heaps
+Greedy algorithms
+Binary search
+Backtracking
+Dynamic programming
+
+
+
+
+# Java is largely used langauge due ti its - high performance, scalability, portability, platform-independent language, large scale applications. 
+- Used in 1)simple STANDALONe aplns; 
+		  2)large scale enterprise applications like erp systems, 
+		  3)mobile applications, 
+		  4)web applications using frontend bakend
+		  
+		  
+		  
+@Sorting algos
+
+
+
+--------------------------------------------------------------------------------------------------------
+What is a api? -
+  API is like a communication between two applications
+  Eg. If I am developing an application to read and store info from a pdf/jpg into my db and process it later. I may not need to develop my own OCR system as it can be timetaking/not efficient for me. Here I may rely on any 3rd party service that provides better/ accurate ocr's. So instead Of developing I can request that 3rd party to allow me use their service. Now Here comes the picture of API, I need not use/setup their entire appliaction/code in my system. Where I require the service, I may call the 3rd party api at that time and get my ocr done. So this api will connect to it using its url,get access of that service which the 3rd party service allows me and gives the output back to my appln. So here much time, complexity, resources, efficiency is saved; as I dont need to develop these all.
+		
